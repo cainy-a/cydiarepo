@@ -1,0 +1,8 @@
+Origin: cainy-a
+Label: cainy-a
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A repo for Saily

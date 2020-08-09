@@ -1,0 +1,14 @@
+Package: com.SailyTeam.Saily
+Name: Saily Package Manager
+Version: b1595570569
+Architecture: iphoneos-arm
+Description: A package manager
+Maintainer: Saily Team <https://github.com/SailyTeam>
+Author: Saily Team <https://github.com/SailyTeam>
+Section: Package Manager
+Depends: 
+Filename: debs/Saily.deb
+Size: 28402232
+MD5sum: c6ef5d5d48a3286059db6d709c425666
+SHA1: 9c7db174d3fc7b4f23801047da9fc57501664d74
+SHA256: 052d1d88dcc3b4b60c9c317b1e34a1fa9944507f994ac97243930c84fe2ff4ad
