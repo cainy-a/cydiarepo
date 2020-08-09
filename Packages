@@ -1,6 +1,6 @@
 Package: wiki.qaq.protein
 Name: Saily Package Manager
-Version: b1595570569
+Version: 1.0-1-1595570569
 Architecture: iphoneos-arm
 Description: A package manager
 Maintainer: Saily Team <https://github.com/SailyTeam>
