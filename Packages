@@ -5,10 +5,26 @@ Architecture: iphoneos-arm
 Description: A package manager
 Maintainer: Saily Team <https://github.com/SailyTeam>
 Author: Saily Team <https://github.com/SailyTeam>
-Section: Package Manager
+Section: packaging
 Depends: 
 Filename: debs/Saily.deb
 Size: 28402232
 MD5sum: c6ef5d5d48a3286059db6d709c425666
 SHA1: 9c7db174d3fc7b4f23801047da9fc57501664d74
 SHA256: 052d1d88dcc3b4b60c9c317b1e34a1fa9944507f994ac97243930c84fe2ff4ad
+
+
+Package: com.yellowsink.grocerylistprojbbypass
+Name: Buy me a Pie Premium
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Free premium for Buy Me a Pie. No preference page, it just works!
+Maintainer: Cain Atkinson <cainatkinson98@gmail.com>
+Author: Cain Atkinson <cainatkinson98@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/GroceryPro.deb
+Size: 3298
+MD5sum: D8D26352E1DC199ACE33ADB96341EAAB
+SHA1: C65E28BA9CA3077C4CEFF9351FC7CB80E5F6588E
+SHA256: 58C2B89262D3412A71C72DCE838C72E7F601868D82F532CB3CBA353D56C7BF6E
