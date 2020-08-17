@@ -1,19 +1,3 @@
-Package: wiki.qaq.protein
-Name: Saily Package Manager
-Version: 1.0-1-1595570569
-Architecture: iphoneos-arm
-Description: A package manager
-Maintainer: Saily Team <https://github.com/SailyTeam>
-Author: Saily Team <https://github.com/SailyTeam>
-Section: packaging
-Depends: 
-Filename: debs/Saily.deb
-Size: 28402232
-MD5sum: c6ef5d5d48a3286059db6d709c425666
-SHA1: 9c7db174d3fc7b4f23801047da9fc57501664d74
-SHA256: 052d1d88dcc3b4b60c9c317b1e34a1fa9944507f994ac97243930c84fe2ff4ad
-
-
 Package: com.yellowsink.grocerylistprojbbypass
 Name: Buy me a Pie Premium
 Version: 0.0.1
@@ -28,3 +12,18 @@ Size: 3298
 MD5sum: D8D26352E1DC199ACE33ADB96341EAAB
 SHA1: C65E28BA9CA3077C4CEFF9351FC7CB80E5F6588E
 SHA256: 58C2B89262D3412A71C72DCE838C72E7F601868D82F532CB3CBA353D56C7BF6E
+
+Package: com.yellowsink.recshotpremiumfree
+Name: RecShot Premium
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Free premium for RecShot. No preference page, it just works!
+Maintainer: Cain Atkinson <cainatkinson98@gmail.com>
+Author: Cain Atkinson <cainatkinson98@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: debs/RecShotPro.deb
+Size: 3056
+MD5sum: B20AECA8782D776CBB4EA8B3F74D87E1
+SHA1: 6C89036A90E2685EE977569931646CD8849FEAFF
+SHA256: 00B217C6C5C795888F6EE260D93B21CEF7D3BACBA7EB042A41C390E75470C03E
